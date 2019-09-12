@@ -1,0 +1,8 @@
+@media only screen and (min-width : 1824px) {
+	.rex-header__list-item {
+		margin-right: 45px;
+	}
+	.rex-header__list-item a {
+		font-size: 1.25em;
+	}
+}

@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'ArtegraSansCondensedSC-Bold';
+  src: url('ArtegraSansCondensedSC-Bold.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'GeogrotesqueCyr-Bold';
+	src: url(GeogrotesqueCyr-Bold.otf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GeogrotesqueCyr-Medium';
+	src: url(GeogrotesqueCyr-Medium.otf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GeogrotesqueCyr-Regular';
+	src: url(GeogrotesqueCyr-Regular.otf);
+	font-weight: normal;
+	font-style: normal;
+}
